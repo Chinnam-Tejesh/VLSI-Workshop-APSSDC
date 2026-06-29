@@ -16,7 +16,7 @@ View the certificate on my linkdin:
 8. D_Flip_Flop
 9. T_FlipFlop
 10. JK_FlipFlop
-11. ShiftReg_4bit
+11. ShiftReg_4bit (SIPO)
 12. RingCounter_4bit
 13. JhonsonCounter_4bit
 
