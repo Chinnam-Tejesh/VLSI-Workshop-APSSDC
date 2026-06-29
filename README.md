@@ -5,7 +5,7 @@ The goal of the workshop is to teach and make the attendee confortable with VLSI
 
 View the certificate on my linkdin: 
 
-## Projects 
+## Projects List
 1. Basic_gates
 2. Half_adder and Full_adder
 3. RippleCarry_adder
